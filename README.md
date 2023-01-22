@@ -1,2 +1,2 @@
-# goktug
+# Göktuğ
 Yazılım için her şey
